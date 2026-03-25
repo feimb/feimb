@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D4D03AQG9F4aIMGgP4Q/profile-displayphoto-scale_400_400/B4DZe5gKK4GgAo-/0/1751163905441?e=1776297600&v=beta&t=kB2voNnXaJi8SQ3Zcw_MZuQC29HMdynKuZrOXNjYFFI" width="150" style="border-radius: 50%" />
+  <img src="https://media.licdn.com/dms/image/v2/D4D03AQG9F4aIMGgP4Q/profile-displayphoto-scale_400_400/B4DZe5gKK4GgAo-/0/1751163905441?e=1776297600&v=beta&t=kB2voNnXaJi8SQ3Zcw_MZuQC29HMdynKuZrOXNjYFFI" width="150" style="border-radius: 50%;" />
 </p>
 
 # 👋 Hola, soy Fei
@@ -17,10 +17,8 @@ Actualmente estoy desarrollando proyectos prácticos para mejorar mis habilidade
 ---
 
 ## 🛠️ Tecnologías
-- React
-- JavaScript
-- Tailwind CSS
-- Git
+
+![My Skills](https://skillicons.dev/icons?i=react,js,tailwind,git,html,css)
 ---
 
 ## 📫 Contacto
