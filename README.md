@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D4D03AQG9F4aIMGgP4Q/profile-displayphoto-scale_400_400/B4DZe5gKK4GgAo-/0/1751163905441?e=1776297600&v=beta&t=kB2voNnXaJi8SQ3Zcw_MZuQC29HMdynKuZrOXNjYFFI" width="150" style="border-radius: 50%;" />
+  <img src="https://media.licdn.com/dms/image/v2/D4D35AQFExzUKYVsPYQ/profile-framedphoto-shrink_800_800/B4DZe5gKrRHMAg-/0/1751163907176?e=1777172400&v=beta&t=OsNrX-V7a0AsGW49UEC9Tk8HK1uBBTuJ39-R46WBrTI" width="150" />
 </p>
 
 # 👋 Hola, soy Fei
